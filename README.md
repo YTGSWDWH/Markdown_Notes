@@ -1,7 +1,8 @@
 # Markdown_Notes
 ## 1.代码块
 ```python
-print(hello world)
+if ZhanWenxiang is god:
+  print('ZhangWenxiang is god forever')
 ```
 ## 2.字体
 **张文祥**
@@ -22,3 +23,9 @@ print(hello world)
 
 ## 6.超链接
 [北科大](https://www.ustb.edu.cn/)
+
+## 7.插入表格
+名字|年龄|属性
+---|---|---
+张文祥|25岁|宅男
+张旭锋|25岁|文艺青年
