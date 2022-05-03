@@ -18,4 +18,4 @@ print(hello world)
 ***
 
 ## 5.插入图片
-![名称](https://wallhaven.cc/w/28dgyg)
+![名称](https://wallhaven.cc/w/9mx51d)
