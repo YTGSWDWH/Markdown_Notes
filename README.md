@@ -30,3 +30,8 @@ if ZhanWenxiang is god:
 ---|---|---
 张文祥|25岁|宅男
 张旭锋|25岁|文艺青年
+
+## 8.列表
+* python
+  * java
+    * go
