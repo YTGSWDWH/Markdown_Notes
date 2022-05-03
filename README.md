@@ -21,4 +21,4 @@ print(hello world)
 ![名称](https://github.com/YTGSWDWH/Markdown_Notes/blob/main/Picture/%E4%B8%89%E5%9B%BD%E6%9D%80-yiqian-zhang.jpg)
 
 ## 6.超链接
-[北科大图书馆](http://lib.ustb.edu.cn/)
+[北科大](https://www.ustb.edu.cn/)
