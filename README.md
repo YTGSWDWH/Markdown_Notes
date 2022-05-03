@@ -18,4 +18,4 @@ print(hello world)
 ***
 
 ## 5.插入图片
-![名称](https://wallhaven.cc/w/9mx51d)
+![名称](https://github.com/YTGSWDWH/Markdown_Notes/blob/main/Picture/%E4%B8%89%E5%9B%BD%E6%9D%80-yiqian-zhang.jpg)
