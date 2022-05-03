@@ -1,9 +1,10 @@
 # Markdown_Notes
-## 1.代码块
+## 1.代码块及单行代码
 ```python
 if ZhanWenxiang is god:
   print('ZhangWenxiang is god forever')
 ```
+`print('hello world')`
 ## 2.字体
 **张文祥**
 ~~张文祥~~
