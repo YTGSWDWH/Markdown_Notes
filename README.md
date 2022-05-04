@@ -21,7 +21,7 @@ if ZhanWenxiang is god:
 
 ## 5.插入图片
 ![名称](https://github.com/YTGSWDWH/Markdown_Notes/blob/main/Picture/%E4%B8%89%E5%9B%BD%E6%9D%80-yiqian-zhang.jpg)
-![貂蝉](https://pic.netbian.com/uploads/allimg/220504/000416-1651593856c343.jpg)
+![貂蝉](https://github.com/YTGSWDWH/Markdown_Notes/blob/main/Picture/%E8%B2%82%E8%9D%89-%E5%94%A4%E7%81%B5%E9%AD%85%E5%BD%B14K.jpg)
 
 ## 6.超链接
 [北科大](https://www.ustb.edu.cn/)
